@@ -1,6 +1,6 @@
-- 👋 I'm a software developer with a knack for tackling complex problems and a hunger for knowledge.
-- 👩🏼‍🎓 I’m a 3rd year Computer Technologies and Information Systems student in Bilkent University.
-- 🛠 Skills and Expertise: React, Typescript, JavaScript, HTML/CSS, jQuery, PHP, Python, Django, C, Java
+- 👋 I'm a software engineer with a knack for tackling complex problems and a hunger for knowledge.
+- 👩🏼‍🎓 I’m a 4th year Computer Technologies and Information Systems student in Bilkent University.
+- 🛠 Skills and Expertise: React, React Native, Typescript, JavaScript, HTML/CSS, jQuery, PHP, Python, Django, C, Java
 
 <!---
 busecogen/busecogen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
